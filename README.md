@@ -115,4 +115,4 @@ slightly different numerical results.
 - J.-M. Valin, “A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band
   Speech Enhancement,” IEEE MMSP Workshop, 2018,
   `arXiv:1709.08243`.
-- Official RNNoise source and README included in `rnnoise`.
+- Official RNNoise source and README included in `rnnoise`. https://github.com/xiph/rnnoise
